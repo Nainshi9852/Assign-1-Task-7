@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\bin\Debug\Task-7.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\bin\Debug\Task-7.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\bin\Debug\Task-7.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\obj\Debug\Task-7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\obj\Debug\Task-7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\obj\Debug\Task-7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\obj\Debug\Task-7.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assignment\Basic C# Assign1(22-07)\Task-7\Task-7\obj\Debug\Task-7.pdb
